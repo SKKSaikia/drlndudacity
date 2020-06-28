@@ -8,7 +8,7 @@ My solutions to the projects (and mini-projects) of Udacity's <a href="https://w
 Notes of Chapter 1 - <a href="#">**'Chapter1.MD'**</a>
 
 🧪 Chapter 2: Value-Based Methods<br />
-Notes of Chapter 12 - <a href="#">**'Chapter2.MD'**</a>
+Notes of Chapter 2 - <a href="#">**'Chapter2.MD'**</a>
 
 🧪 Chapter 3: Policy-Based Methods<br />
 Notes of Chapter 3 - <a href="#">**'Chapter3.MD'**</a>
@@ -21,7 +21,7 @@ Notes of Chapter 4 - <a href="#">**'Chapter4.MD'**</a>
 ## Projects
 
 
-📥 <b>Project 1: Navigation</b> - <a href="#">project directory</a>
+📥 <b>Project 1: Navigation</b> - <a href="#">Project 1 directory</a>
 
 <b>Goal:</b> train an agent to navigate (and collect bananas!)<br />
 <b>Reward:</b> +1 (Yellow banana) and -1 (Blue banana)<br />
