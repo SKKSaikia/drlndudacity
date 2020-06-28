@@ -2,6 +2,8 @@
 
 My solutions to the projects (and mini-projects) of Udacity's <a href="https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893">Deep Reinforcement Learning Nanodegree</a> program.
 
+<img src="./gif/trained.gif">
+
 ## Chapters
 
 🧪 Chapter 1: Introduction to Deep Reinforcement Learning<br />
@@ -61,10 +63,11 @@ Follow the instructions in <a href="#">Navigation.ipynb</a> to get started with 
 (Optional) Challenge: Learning from Pixels
 
 <br />
+
 📥 <b>Project 2:</b>
 
-📥 Project 3:
+📥 <b>Project 3:</b>
 
-📥 Project 4:
+📥 <b>Project 4:</b>
 
-📥 Project 5:
+📥 <b>Project 5:</b>
