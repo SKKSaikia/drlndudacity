@@ -1,21 +1,27 @@
 # Deep Reinforcement Learning Nanodegree
 
+My solutions to the projects (and mini-projects) of Udacity's <a href="https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893">Deep Reinforcement Learning Nanodegree</a> program.
+
 ## Chapters
 
-🧪 Chapter 1: Introduction to Deep Reinforcement Learning
+🧪 Chapter 1: Introduction to Deep Reinforcement Learning<br />
+Notes of Chapter 1 - <a href="#">**'Chapter1.MD'**</a>
 
-🧪 Chapter 2: Value-Based Methods
+🧪 Chapter 2: Value-Based Methods<br />
+Notes of Chapter 12 - <a href="#">**'Chapter2.MD'**</a>
 
-🧪 Chapter 3: Policy-Based Methods
+🧪 Chapter 3: Policy-Based Methods<br />
+Notes of Chapter 3 - <a href="#">**'Chapter3.MD'**</a>
 
-🧪 Chapter 4: Multi-Agent Reinforcement
+🧪 Chapter 4: Multi-Agent Reinforcement<br />
+Notes of Chapter 4 - <a href="#">**'Chapter4.MD'**</a>
 
 <hr />
 
 ## Projects
 
 
-📥 <b>Project 1: Navigation</b>
+📥 <b>Project 1: Navigation</b> - <a href="#">project directory</a>
 
 <b>Goal:</b> train an agent to navigate (and collect bananas!)<br />
 <b>Reward:</b> +1 (Yellow banana) and -1 (Blue banana)<br />
@@ -25,7 +31,7 @@
 - **`2`** - turn left.
 - **`3`** - turn right.
 
-<b>Environment:</b> <a href="https://github.com/udacity/deep-reinforcement-learning#dependencies">dependencies</a>, <a href="./Banana_Windows_x86_64.zip">unity banana </a><a href="https://github.com/Unity-Technologies/ml-agents">(unity-ml-agent)</a>
+<b>Environment:</b> <a href="https://github.com/udacity/deep-reinforcement-learning#dependencies">dependencies</a>, <a href="./proj1_navigation/Banana_Windows_x86_64.zip">unity banana </a><a href="https://github.com/Unity-Technologies/ml-agents">(unity-ml-agent)</a>
 
 <img src="gif/banana.gif" height=20% >
 
