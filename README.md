@@ -17,15 +17,15 @@
 
 📥 <b>Project 1: Navigation</b>
 
-Goal: train an agent to navigate (and collect bananas!)<br />
-Reward: +1 (Yellow banana) and -1 (Blue banana)<br />
-Actions: <br />
+<b>Goal:</b> train an agent to navigate (and collect bananas!)<br />
+<b>Reward:</b> +1 (Yellow banana) and -1 (Blue banana)<br />
+<b>Actions:</b> <br />
 - **`0`** - move forward.
 - **`1`** - move backward.
 - **`2`** - turn left.
 - **`3`** - turn right.
 
-Environment: <a href="https://github.com/udacity/deep-reinforcement-learning#dependencies">dependencies</a>, <a href="./Banana_Windows_x86_64.zip">unity banana </a><a href="https://github.com/Unity-Technologies/ml-agents">(unity-ml-agent)</a>
+<b>Environment:</b> <a href="https://github.com/udacity/deep-reinforcement-learning#dependencies">dependencies</a>, <a href="./Banana_Windows_x86_64.zip">unity banana </a><a href="https://github.com/Unity-Technologies/ml-agents">(unity-ml-agent)</a>
 
 <img src="gif/banana.gif" height=20% >
 
@@ -45,7 +45,7 @@ Environment: <a href="https://github.com/udacity/deep-reinforcement-learning#dep
 
 2. Place the file in the <a href="https://github.com/udacity/deep-reinforcement-learning/">DRLND GitHub repository</a>, in the `p1_navigation/` folder, and unzip (or decompress) the file.
 
-Requirements for Udacity:
+<b>Requirements for Udacity:</b>
 - Training Code **[Navigation.ipynb]**, Framework use - PyTorch and Python 3, Saved Model Weights **[model.pt]**
 - **[Report.pdf]** with Learning Algorithm, Plot of Rewards and Ideas for future Algorithm
 - [Extra] Implement a double DQN, a dueling DQN, and/or prioritized experience replay!
