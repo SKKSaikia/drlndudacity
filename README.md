@@ -64,10 +64,6 @@ Follow the instructions in <a href="#">Navigation.ipynb</a> to get started with 
 
 <br />
 
-📥 <b>Project 2:</b>
+📥 <b>Project 2: Continuous Control</b>
 
-📥 <b>Project 3:</b>
-
-📥 <b>Project 4:</b>
-
-📥 <b>Project 5:</b>
+📥 <b>Project 3: Collaboration and Competition</b>
