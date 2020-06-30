@@ -65,10 +65,10 @@ Follow the instructions in <a href="#">Navigation.ipynb</a> to get started with 
 <br />
 
 📥 <b>Project 2: Continuous Control</b>
-<center><img src="gif/reacher.gif" height=150px></center>
+<center><img src="gif/reacher.gif" height=20%></center>
 
 <b>Real World:</b>
-<center><img src="gif/roboarm.gif" height=150px><a> </a><img src="gif/roboarm2.gif" height=150px></center>
+<center><img src="gif/roboarm.gif" height=20%><a> </a><img src="gif/roboarm2.gif" height=20%></center>
 
 <br />
 
