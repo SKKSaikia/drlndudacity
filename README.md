@@ -65,5 +65,17 @@ Follow the instructions in <a href="#">Navigation.ipynb</a> to get started with 
 <br />
 
 📥 <b>Project 2: Continuous Control</b>
+<center><img src="gif/reacher.gif" height=150px></center>
+
+<b>Real World:</b>
+<center><img src="gif/roboarm.gif" height=150px><a> </a><img src="gif/roboarm2.gif" height=150px></center>
+
+<br />
+
+(Optional) Challenge: Crawl
+
+<img src="./gif/crawl.png">
+
+<br /><br />
 
 📥 <b>Project 3: Collaboration and Competition</b>
