@@ -67,8 +67,8 @@ Follow the instructions in <a href="#">Navigation.ipynb</a> to get started with 
 📥 <b>Project 2: Continuous Control</b>
 <center><img src="gif/reacher.gif" height=20%></center>
 
-<b>Real World:</b>
-<center><img src="gif/roboarm.gif" height=20%><a> </a><img src="gif/roboarm2.gif" height=20%></center>
+<b>Real World:</b><br />
+<img src="gif/roboarm.gif" height=40% width=40%><a> </a><img src="gif/roboarm2.gif" height=40% width=40%>
 
 <br />
 
